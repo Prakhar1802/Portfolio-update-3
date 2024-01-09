@@ -126,6 +126,9 @@ body {
     width: 80%;
     overflow: auto;
 }
+.right::-webkit-scrollbar{
+    width: 0;
+}
 
 .right .projects {
     margin-top: 60px;
